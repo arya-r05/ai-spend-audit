@@ -16,11 +16,11 @@ Plan for tomorrow:
 - Research and verify official pricing data URLs for core AI tools to populate matrix.
 - Draft the initial mathematical rule logic for the core audit optimization.
 
-
+---
 
 ## Day 2 2026-05-22
 
-Hours worked: 2 hours
+Hours worked: 1.5 hours
 
 What I did:
 - Created `pricingData.ts` and integrated a structured pricing matrix layout for multiple LLM providers.
